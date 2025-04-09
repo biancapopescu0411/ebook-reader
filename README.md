@@ -3,7 +3,7 @@
 **OpenBook** este un sistem portabil pentru citirea cărților electronice, proiectat în jurul microcontrollerului ESP32-C6-WROOM-1-N8. Dispozitivul integrează o serie de componente inteligente pentru stocare, afișare, alimentare și comunicații, toate optimizate pentru eficiență energetică și portabilitate.
 
 ## Diagrama bloc
-![Diagrama bloc](./Diagrama_bloc.png)
+![Diagrama bloc](./Images/Diagrama_bloc.png)
 
 ---
 
