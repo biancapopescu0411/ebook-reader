@@ -408,114 +408,156 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <vertex x="2.7533" y="2.6543"/>
 <vertex x="0.7467" y="2.6543"/>
 <vertex x="0.7467" y="1.6661"/>
-<vertex x="0.997596875" y="1.50230625"/>
-<vertex x="0.998384375" y="1.502384375"/>
-<vertex x="1.00190625" y="1.49949375"/>
-<vertex x="1.005740625" y="1.496990625"/>
-<vertex x="1.005903125" y="1.4962125"/>
-<vertex x="1.271259375" y="1.2784375"/>
-<vertex x="1.272659375" y="1.2783"/>
-<vertex x="1.275203125" y="1.275203125"/>
-<vertex x="1.2783" y="1.272659375"/>
-<vertex x="1.2784375" y="1.271259375"/>
-<vertex x="1.4962625" y="1.005846875"/>
-<vertex x="1.4976125" y="1.0054375"/>
-<vertex x="1.499503125" y="1.001896875"/>
-<vertex x="1.50204375" y="0.998803125"/>
-<vertex x="1.50190625" y="0.997403125"/>
-<vertex x="1.66369375" y="0.69460625"/>
-<vertex x="1.6649375" y="0.693940625"/>
-<vertex x="1.666103125" y="0.6901"/>
-<vertex x="1.667990625" y="0.686565625"/>
-<vertex x="1.66758125" y="0.685221875"/>
-<vertex x="1.767234375" y="0.356634375"/>
-<vertex x="1.7688625" y="0.354825"/>
-<vertex x="1.768703125" y="0.3518"/>
-<vertex x="1.76958125" y="0.3489"/>
-<vertex x="1.768434375" y="0.346753125"/>
+<vertex x="0.99759375" y="1.502309375"/>
+<vertex x="0.998378125" y="1.5023875"/>
+<vertex x="0.998925" y="1.5019375"/>
+<vertex x="0.999646875" y="1.5019375"/>
+<vertex x="1.00243125" y="1.499153125"/>
+<vertex x="1.005734375" y="1.496996875"/>
+<vertex x="1.0059" y="1.496215625"/>
+<vertex x="1.2712625" y="1.278434375"/>
+<vertex x="1.2726625" y="1.278296875"/>
+<vertex x="1.27520625" y="1.2752"/>
+<vertex x="1.278303125" y="1.27265625"/>
+<vertex x="1.278440625" y="1.27125625"/>
+<vertex x="1.49558125" y="1.006678125"/>
+<vertex x="1.49589375" y="1.006634375"/>
+<vertex x="1.496565625" y="1.005740625"/>
+<vertex x="1.497621875" y="1.00541875"/>
+<vertex x="1.4977" y="1.005271875"/>
+<vertex x="1.4978875" y="1.005209375"/>
+<vertex x="1.49960625" y="1.001775"/>
+<vertex x="1.502034375" y="0.998815625"/>
+<vertex x="1.502003125" y="0.998490625"/>
+<vertex x="1.502215625" y="0.99820625"/>
+<vertex x="1.502059375" y="0.9971125"/>
+<vertex x="1.663690625" y="0.694609375"/>
+<vertex x="1.6649375" y="0.69394375"/>
+<vertex x="1.665540625" y="0.691953125"/>
+<vertex x="1.667009375" y="0.690484375"/>
+<vertex x="1.667009375" y="0.6884"/>
+<vertex x="1.6679875" y="0.68656875"/>
+<vertex x="1.66758125" y="0.685228125"/>
+<vertex x="1.7672375" y="0.356628125"/>
+<vertex x="1.768865625" y="0.35481875"/>
+<vertex x="1.76870625" y="0.35179375"/>
+<vertex x="1.769584375" y="0.34889375"/>
+<vertex x="1.7684375" y="0.346746875"/>
 <vertex x="1.75" y="0"/>
-<vertex x="1.768434375" y="-0.346753125"/>
-<vertex x="1.76958125" y="-0.3489"/>
-<vertex x="1.768703125" y="-0.3518"/>
-<vertex x="1.7688625" y="-0.354825"/>
-<vertex x="1.767234375" y="-0.356634375"/>
-<vertex x="1.66758125" y="-0.685221875"/>
-<vertex x="1.667990625" y="-0.686565625"/>
-<vertex x="1.666103125" y="-0.6901"/>
-<vertex x="1.6649375" y="-0.693940625"/>
-<vertex x="1.66369375" y="-0.69460625"/>
-<vertex x="1.50190625" y="-0.997403125"/>
-<vertex x="1.50204375" y="-0.998803125"/>
-<vertex x="1.499503125" y="-1.001896875"/>
-<vertex x="1.4976125" y="-1.0054375"/>
-<vertex x="1.4962625" y="-1.005846875"/>
-<vertex x="1.2784375" y="-1.271259375"/>
-<vertex x="1.2783" y="-1.272659375"/>
-<vertex x="1.275203125" y="-1.275203125"/>
-<vertex x="1.272659375" y="-1.2783"/>
-<vertex x="1.271259375" y="-1.2784375"/>
-<vertex x="1.005903125" y="-1.4962125"/>
-<vertex x="1.005740625" y="-1.496990625"/>
-<vertex x="1.00190625" y="-1.49949375"/>
-<vertex x="0.998384375" y="-1.502384375"/>
-<vertex x="0.997596875" y="-1.50230625"/>
+<vertex x="1.7684375" y="-0.346746875"/>
+<vertex x="1.769584375" y="-0.34889375"/>
+<vertex x="1.76870625" y="-0.35179375"/>
+<vertex x="1.768865625" y="-0.35481875"/>
+<vertex x="1.7672375" y="-0.356628125"/>
+<vertex x="1.66758125" y="-0.685228125"/>
+<vertex x="1.6679875" y="-0.68656875"/>
+<vertex x="1.667009375" y="-0.6884"/>
+<vertex x="1.667009375" y="-0.690484375"/>
+<vertex x="1.665540625" y="-0.691953125"/>
+<vertex x="1.6649375" y="-0.69394375"/>
+<vertex x="1.663690625" y="-0.694609375"/>
+<vertex x="1.502059375" y="-0.9971125"/>
+<vertex x="1.502215625" y="-0.99820625"/>
+<vertex x="1.502003125" y="-0.998490625"/>
+<vertex x="1.502034375" y="-0.998815625"/>
+<vertex x="1.49960625" y="-1.001775"/>
+<vertex x="1.4978875" y="-1.005209375"/>
+<vertex x="1.4977" y="-1.005271875"/>
+<vertex x="1.497621875" y="-1.00541875"/>
+<vertex x="1.496565625" y="-1.005740625"/>
+<vertex x="1.49589375" y="-1.006634375"/>
+<vertex x="1.49558125" y="-1.006678125"/>
+<vertex x="1.278434375" y="-1.2712625"/>
+<vertex x="1.278296875" y="-1.2726625"/>
+<vertex x="1.2752" y="-1.27520625"/>
+<vertex x="1.27265625" y="-1.278303125"/>
+<vertex x="1.27125625" y="-1.278440625"/>
+<vertex x="1.0058875" y="-1.496225"/>
+<vertex x="1.005725" y="-1.497"/>
+<vertex x="1.00503125" y="-1.497453125"/>
+<vertex x="1.00476875" y="-1.49824375"/>
+<vertex x="1.00190625" y="-1.499675"/>
+<vertex x="0.99964375" y="-1.5019375"/>
+<vertex x="0.998925" y="-1.5019375"/>
+<vertex x="0.998378125" y="-1.5023875"/>
+<vertex x="0.997590625" y="-1.502309375"/>
 <vertex x="0.7467" y="-1.6661"/>
 </polygon>
 <polygon width="0.0254" layer="1" pour="solid">
 <vertex x="-2.7533" y="-2.6543"/>
 <vertex x="-0.7467" y="-2.6543"/>
 <vertex x="-0.7467" y="-1.6661"/>
-<vertex x="-0.997596875" y="-1.50230625"/>
-<vertex x="-0.998384375" y="-1.502384375"/>
-<vertex x="-1.00190625" y="-1.49949375"/>
-<vertex x="-1.005740625" y="-1.496990625"/>
-<vertex x="-1.005903125" y="-1.4962125"/>
-<vertex x="-1.271259375" y="-1.2784375"/>
-<vertex x="-1.272659375" y="-1.2783"/>
-<vertex x="-1.275203125" y="-1.275203125"/>
-<vertex x="-1.2783" y="-1.272659375"/>
-<vertex x="-1.2784375" y="-1.271259375"/>
-<vertex x="-1.4962625" y="-1.005846875"/>
-<vertex x="-1.4976125" y="-1.0054375"/>
-<vertex x="-1.499503125" y="-1.001896875"/>
-<vertex x="-1.50204375" y="-0.998803125"/>
-<vertex x="-1.50190625" y="-0.997403125"/>
-<vertex x="-1.66369375" y="-0.69460625"/>
-<vertex x="-1.6649375" y="-0.693940625"/>
-<vertex x="-1.666103125" y="-0.6901"/>
-<vertex x="-1.667990625" y="-0.686565625"/>
-<vertex x="-1.66758125" y="-0.685221875"/>
-<vertex x="-1.767234375" y="-0.356634375"/>
-<vertex x="-1.7688625" y="-0.354825"/>
-<vertex x="-1.768703125" y="-0.3518"/>
-<vertex x="-1.76958125" y="-0.3489"/>
-<vertex x="-1.768434375" y="-0.346753125"/>
+<vertex x="-0.99759375" y="-1.502309375"/>
+<vertex x="-0.998378125" y="-1.5023875"/>
+<vertex x="-0.998925" y="-1.5019375"/>
+<vertex x="-0.999646875" y="-1.5019375"/>
+<vertex x="-1.00243125" y="-1.499153125"/>
+<vertex x="-1.005734375" y="-1.496996875"/>
+<vertex x="-1.005896875" y="-1.496215625"/>
+<vertex x="-1.27125625" y="-1.278440625"/>
+<vertex x="-1.27265625" y="-1.278303125"/>
+<vertex x="-1.2752" y="-1.27520625"/>
+<vertex x="-1.278296875" y="-1.2726625"/>
+<vertex x="-1.278434375" y="-1.2712625"/>
+<vertex x="-1.49558125" y="-1.006678125"/>
+<vertex x="-1.49589375" y="-1.006634375"/>
+<vertex x="-1.496565625" y="-1.005740625"/>
+<vertex x="-1.497621875" y="-1.00541875"/>
+<vertex x="-1.4977" y="-1.005271875"/>
+<vertex x="-1.4978875" y="-1.005209375"/>
+<vertex x="-1.49960625" y="-1.001775"/>
+<vertex x="-1.502034375" y="-0.998815625"/>
+<vertex x="-1.502003125" y="-0.998490625"/>
+<vertex x="-1.502215625" y="-0.99820625"/>
+<vertex x="-1.502059375" y="-0.9971125"/>
+<vertex x="-1.663690625" y="-0.694609375"/>
+<vertex x="-1.6649375" y="-0.69394375"/>
+<vertex x="-1.665540625" y="-0.691953125"/>
+<vertex x="-1.667009375" y="-0.690484375"/>
+<vertex x="-1.667009375" y="-0.6884"/>
+<vertex x="-1.6679875" y="-0.68656875"/>
+<vertex x="-1.66758125" y="-0.685228125"/>
+<vertex x="-1.7672375" y="-0.356628125"/>
+<vertex x="-1.768865625" y="-0.35481875"/>
+<vertex x="-1.76870625" y="-0.35179375"/>
+<vertex x="-1.769584375" y="-0.34889375"/>
+<vertex x="-1.7684375" y="-0.346746875"/>
 <vertex x="-1.75" y="0"/>
-<vertex x="-1.768434375" y="0.346753125"/>
-<vertex x="-1.76958125" y="0.3489"/>
-<vertex x="-1.768703125" y="0.3518"/>
-<vertex x="-1.7688625" y="0.354825"/>
-<vertex x="-1.767234375" y="0.356634375"/>
-<vertex x="-1.66758125" y="0.685221875"/>
-<vertex x="-1.667990625" y="0.686565625"/>
-<vertex x="-1.666103125" y="0.6901"/>
-<vertex x="-1.6649375" y="0.693940625"/>
-<vertex x="-1.66369375" y="0.69460625"/>
-<vertex x="-1.50190625" y="0.997403125"/>
-<vertex x="-1.50204375" y="0.998803125"/>
-<vertex x="-1.499503125" y="1.001896875"/>
-<vertex x="-1.4976125" y="1.0054375"/>
-<vertex x="-1.4962625" y="1.005846875"/>
-<vertex x="-1.2784375" y="1.271259375"/>
-<vertex x="-1.2783" y="1.272659375"/>
-<vertex x="-1.275203125" y="1.275203125"/>
-<vertex x="-1.272659375" y="1.2783"/>
-<vertex x="-1.271259375" y="1.2784375"/>
-<vertex x="-1.005903125" y="1.4962125"/>
-<vertex x="-1.005740625" y="1.496990625"/>
-<vertex x="-1.00190625" y="1.49949375"/>
-<vertex x="-0.998384375" y="1.502384375"/>
-<vertex x="-0.997596875" y="1.50230625"/>
+<vertex x="-1.7684375" y="0.346746875"/>
+<vertex x="-1.769584375" y="0.34889375"/>
+<vertex x="-1.76870625" y="0.35179375"/>
+<vertex x="-1.768865625" y="0.35481875"/>
+<vertex x="-1.7672375" y="0.356628125"/>
+<vertex x="-1.66758125" y="0.685228125"/>
+<vertex x="-1.6679875" y="0.68656875"/>
+<vertex x="-1.667009375" y="0.6884"/>
+<vertex x="-1.667009375" y="0.690484375"/>
+<vertex x="-1.665540625" y="0.691953125"/>
+<vertex x="-1.6649375" y="0.69394375"/>
+<vertex x="-1.663690625" y="0.694609375"/>
+<vertex x="-1.502059375" y="0.9971125"/>
+<vertex x="-1.502215625" y="0.99820625"/>
+<vertex x="-1.502003125" y="0.998490625"/>
+<vertex x="-1.502034375" y="0.998815625"/>
+<vertex x="-1.49960625" y="1.001775"/>
+<vertex x="-1.4978875" y="1.005209375"/>
+<vertex x="-1.4977" y="1.005271875"/>
+<vertex x="-1.497621875" y="1.00541875"/>
+<vertex x="-1.496565625" y="1.005740625"/>
+<vertex x="-1.49589375" y="1.006634375"/>
+<vertex x="-1.49558125" y="1.006678125"/>
+<vertex x="-1.278440625" y="1.27125625"/>
+<vertex x="-1.278303125" y="1.27265625"/>
+<vertex x="-1.27520625" y="1.2752"/>
+<vertex x="-1.2726625" y="1.278296875"/>
+<vertex x="-1.2712625" y="1.278434375"/>
+<vertex x="-1.0059" y="1.496215625"/>
+<vertex x="-1.005734375" y="1.496996875"/>
+<vertex x="-1.00243125" y="1.499153125"/>
+<vertex x="-0.999646875" y="1.5019375"/>
+<vertex x="-0.998925" y="1.5019375"/>
+<vertex x="-0.998378125" y="1.5023875"/>
+<vertex x="-0.99759375" y="1.502309375"/>
 <vertex x="-0.7467" y="1.6661"/>
 <vertex x="-0.7467" y="2.6543"/>
 <vertex x="-2.7533" y="2.6543"/>
@@ -1273,8 +1315,8 @@ Switches electrical signals</description>
 <text x="11.43" y="3.81" size="1.778" layer="95" align="center-left">&gt;NAME</text>
 <text x="11.43" y="1.27" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
 <polygon width="0.1524" layer="94" pour="solid">
-<vertex x="5.7912" y="2.50860625"/>
-<vertex x="6.9088" y="1.94980625"/>
+<vertex x="5.7912" y="2.508609375"/>
+<vertex x="6.9088" y="1.949809375"/>
 <vertex x="6.9088" y="3.130196875"/>
 <vertex x="5.7912" y="2.571396875"/>
 </polygon>
@@ -3631,12 +3673,12 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="149.86" y1="20.32" x2="149.86" y2="22.86" width="0.1524" layer="91"/>
-<label x="149.86" y="22.86" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="149.86" y="22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP4" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="154.94" y1="20.32" x2="154.94" y2="22.86" width="0.1524" layer="91"/>
-<label x="154.94" y="22.86" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="154.94" y="22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP5" gate="G$1" pin="TP"/>
 </segment>
 <segment>
@@ -3703,7 +3745,7 @@ Stemma QT</text>
 <wire x1="10.16" y1="203.2" x2="10.16" y2="215.9" width="0.1524" layer="91"/>
 <wire x1="7.62" y1="215.9" x2="10.16" y2="215.9" width="0.1524" layer="91"/>
 <junction x="10.16" y="215.9"/>
-<label x="15.24" y="215.9" size="1.778" layer="95" xref="yes"/>
+<label x="15.24" y="215.9" size="1.27" layer="95" xref="yes"/>
 <pinref part="J2" gate="G$1" pin="A4"/>
 <pinref part="PFMF.050.1" gate="G$1" pin="1"/>
 </segment>
@@ -3726,7 +3768,7 @@ Stemma QT</text>
 <net name="VBUS" class="1">
 <segment>
 <wire x1="-2.54" y1="215.9" x2="-5.08" y2="215.9" width="0.1524" layer="91"/>
-<label x="-5.08" y="215.9" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="-5.08" y="215.9" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="PFMF.050.1" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -3736,8 +3778,8 @@ Stemma QT</text>
 <wire x1="104.14" y1="200.66" x2="104.14" y2="198.12" width="0.1524" layer="91"/>
 <junction x="99.06" y="200.66"/>
 <wire x1="99.06" y1="200.66" x2="99.06" y2="203.2" width="0.1524" layer="91"/>
-<label x="99.06" y="203.2" size="1.778" layer="95" xref="yes"/>
-<label x="134.62" y="213.36" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="99.06" y="203.2" size="1.27" layer="95" xref="yes"/>
+<label x="134.62" y="213.36" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="C4_USB" gate="G$1" pin="1"/>
 <pinref part="C5_USB" gate="G$1" pin="1"/>
 </segment>
@@ -3749,14 +3791,14 @@ Stemma QT</text>
 <wire x1="167.64" y1="149.86" x2="167.64" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="167.64" y1="149.86" x2="157.48" y2="149.86" width="0.1524" layer="91"/>
 <junction x="167.64" y="149.86"/>
-<label x="157.48" y="149.86" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="157.48" y="149.86" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="C1_BAT" gate="G$1" pin="1"/>
 <pinref part="CHG_LED" gate="G$1" pin="A"/>
 <pinref part="MCP73831" gate="G$1" pin="VIN"/>
 </segment>
 <segment>
 <wire x1="160.02" y1="-15.24" x2="160.02" y2="-12.7" width="0.1524" layer="91"/>
-<label x="160.02" y="-12.7" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="160.02" y="-12.7" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP14" gate="G$1" pin="TP"/>
 </segment>
 <segment>
@@ -3805,7 +3847,7 @@ Stemma QT</text>
 <segment>
 <wire x1="111.76" y1="218.44" x2="111.76" y2="220.98" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="220.98" x2="114.3" y2="220.98" width="0.1524" layer="91"/>
-<label x="114.3" y="220.98" size="1.778" layer="95" xref="yes"/>
+<label x="114.3" y="220.98" size="1.27" layer="95" xref="yes"/>
 <pinref part="D1" gate="G$1" pin="I/O2_1"/>
 </segment>
 </net>
@@ -3820,7 +3862,7 @@ Stemma QT</text>
 <wire x1="111.76" y1="213.36" x2="111.76" y2="210.82" width="0.1524" layer="91"/>
 <junction x="111.76" y="213.36"/>
 <wire x1="111.76" y1="210.82" x2="114.3" y2="210.82" width="0.1524" layer="91"/>
-<label x="114.3" y="210.82" size="1.778" layer="95" xref="yes"/>
+<label x="114.3" y="210.82" size="1.27" layer="95" xref="yes"/>
 <pinref part="D1" gate="G$1" pin="I/O1_1"/>
 </segment>
 </net>
@@ -3911,7 +3953,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="162.56" y1="20.32" x2="162.56" y2="22.86" width="0.1524" layer="91"/>
-<label x="162.56" y="22.86" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="162.56" y="22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP16" gate="G$1" pin="TP"/>
 </segment>
 <segment>
@@ -3998,7 +4040,7 @@ Stemma QT</text>
 <net name="VBAT" class="1">
 <segment>
 <wire x1="157.48" y1="210.82" x2="157.48" y2="213.36" width="0.1524" layer="91"/>
-<label x="157.48" y="213.36" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="157.48" y="213.36" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="Q1" gate="G$1" pin="D"/>
 </segment>
 <segment>
@@ -4006,13 +4048,13 @@ Stemma QT</text>
 <wire x1="241.3" y1="149.86" x2="241.3" y2="139.7" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="149.86" x2="248.92" y2="149.86" width="0.1524" layer="91"/>
 <junction x="241.3" y="149.86"/>
-<label x="248.92" y="149.86" size="1.778" layer="95" xref="yes"/>
+<label x="248.92" y="149.86" size="1.27" layer="95" xref="yes"/>
 <pinref part="C2_BAT" gate="G$1" pin="1"/>
 <pinref part="MCP73831" gate="G$1" pin="VBAT"/>
 </segment>
 <segment>
 <wire x1="347.98" y1="88.9" x2="350.52" y2="88.9" width="0.1524" layer="91"/>
-<label x="353.06" y="88.9" size="1.778" layer="95" xref="yes"/>
+<label x="353.06" y="88.9" size="1.27" layer="95" xref="yes"/>
 <wire x1="350.52" y1="88.9" x2="353.06" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="347.98" y1="86.36" x2="350.52" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="350.52" y1="86.36" x2="350.52" y2="88.9" width="0.1524" layer="91"/>
@@ -4022,7 +4064,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="144.78" y1="20.32" x2="144.78" y2="22.86" width="0.1524" layer="91"/>
-<label x="144.78" y="22.86" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="144.78" y="22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP3" gate="G$1" pin="TP"/>
 </segment>
 </net>
@@ -4040,7 +4082,7 @@ Stemma QT</text>
 <segment>
 <wire x1="264.16" y1="-2.54" x2="264.16" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="264.16" y1="2.54" x2="266.7" y2="2.54" width="0.1524" layer="91"/>
-<label x="266.7" y="2.54" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="266.7" y="2.54" size="1.27" layer="95" rot="R90" xref="yes"/>
 <wire x1="264.16" y1="2.54" x2="264.16" y2="15.24" width="0.1524" layer="91"/>
 <junction x="264.16" y="2.54"/>
 <pinref part="D8" gate="G$1" pin="2"/>
@@ -4065,13 +4107,13 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="142.24" y1="2.54" x2="142.24" y2="5.08" width="0.1524" layer="91"/>
-<label x="142.24" y="5.08" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="142.24" y="5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP7" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="223.52" y1="-2.54" x2="223.52" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="223.52" y1="2.54" x2="226.06" y2="2.54" width="0.1524" layer="91"/>
-<label x="226.06" y="2.54" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="226.06" y="2.54" size="1.27" layer="95" rot="R90" xref="yes"/>
 <wire x1="223.52" y1="2.54" x2="223.52" y2="15.24" width="0.1524" layer="91"/>
 <junction x="223.52" y="2.54"/>
 <pinref part="D11" gate="G$1" pin="2"/>
@@ -4086,7 +4128,7 @@ Stemma QT</text>
 <net name="SCK" class="0">
 <segment>
 <wire x1="327.66" y1="208.28" x2="330.2" y2="208.28" width="0.1524" layer="91"/>
-<label x="330.2" y="208.28" size="1.778" layer="95" xref="yes"/>
+<label x="330.2" y="208.28" size="1.27" layer="95" xref="yes"/>
 <pinref part="J4" gate="G$1" pin="CLK"/>
 </segment>
 <segment>
@@ -4101,13 +4143,13 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="149.86" y1="2.54" x2="149.86" y2="5.08" width="0.1524" layer="91"/>
-<label x="149.86" y="5.08" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="149.86" y="5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP8" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="233.68" y1="-2.54" x2="233.68" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="233.68" y1="2.54" x2="236.22" y2="2.54" width="0.1524" layer="91"/>
-<label x="236.22" y="2.54" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="236.22" y="2.54" size="1.27" layer="95" rot="R90" xref="yes"/>
 <wire x1="233.68" y1="2.54" x2="233.68" y2="15.24" width="0.1524" layer="91"/>
 <junction x="233.68" y="2.54"/>
 <pinref part="D10" gate="G$1" pin="2"/>
@@ -4122,7 +4164,7 @@ Stemma QT</text>
 <net name="MISO" class="0">
 <segment>
 <wire x1="327.66" y1="203.2" x2="330.2" y2="203.2" width="0.1524" layer="91"/>
-<label x="330.2" y="203.2" size="1.778" layer="95" xref="yes"/>
+<label x="330.2" y="203.2" size="1.27" layer="95" xref="yes"/>
 <pinref part="J4" gate="G$1" pin="DAT0"/>
 </segment>
 <segment>
@@ -4132,13 +4174,13 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="134.62" y1="2.54" x2="134.62" y2="5.08" width="0.1524" layer="91"/>
-<label x="134.62" y="5.08" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="134.62" y="5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP6" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="210.82" y1="-2.54" x2="210.82" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="2.54" x2="213.36" y2="2.54" width="0.1524" layer="91"/>
-<label x="213.36" y="2.54" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="213.36" y="2.54" size="1.27" layer="95" rot="R90" xref="yes"/>
 <wire x1="210.82" y1="2.54" x2="210.82" y2="15.24" width="0.1524" layer="91"/>
 <junction x="210.82" y="2.54"/>
 <pinref part="D12" gate="G$1" pin="2"/>
@@ -4153,14 +4195,14 @@ Stemma QT</text>
 <net name="RESET" class="0">
 <segment>
 <wire x1="289.56" y1="165.1" x2="287.02" y2="165.1" width="0.1524" layer="91"/>
-<label x="287.02" y="165.1" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="287.02" y="165.1" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="EN"/>
 </segment>
 <segment>
 <wire x1="231.14" y1="73.66" x2="241.3" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="73.66" x2="241.3" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="73.66" x2="246.38" y2="73.66" width="0.1524" layer="91"/>
-<label x="246.38" y="73.66" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="246.38" y="73.66" size="1.27" layer="95" rot="R90" xref="yes"/>
 <wire x1="241.3" y1="73.66" x2="241.3" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="71.12" x2="238.76" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="71.12" x2="246.38" y2="71.12" width="0.1524" layer="91"/>
@@ -4187,12 +4229,12 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="116.84" y1="2.54" x2="116.84" y2="-2.54" width="0.1524" layer="91"/>
-<label x="116.84" y="-2.54" size="1.778" layer="95" rot="R270" xref="yes"/>
+<label x="116.84" y="-2.54" size="1.27" layer="95" rot="R270" xref="yes"/>
 <pinref part="R1-PINH1" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <wire x1="167.64" y1="-15.24" x2="167.64" y2="-12.7" width="0.1524" layer="91"/>
-<label x="167.64" y="-12.7" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="167.64" y="-12.7" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP15" gate="G$1" pin="TP"/>
 </segment>
 </net>
@@ -4209,7 +4251,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="101.6" y1="2.54" x2="101.6" y2="-2.54" width="0.1524" layer="91"/>
-<label x="101.6" y="-2.54" size="1.778" layer="95" rot="R270" xref="yes"/>
+<label x="101.6" y="-2.54" size="1.27" layer="95" rot="R270" xref="yes"/>
 <pinref part="R2-PINH1" gate="G$1" pin="1"/>
 </segment>
 </net>
@@ -4226,7 +4268,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="157.48" y1="2.54" x2="157.48" y2="5.08" width="0.1524" layer="91"/>
-<label x="157.48" y="5.08" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="157.48" y="5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP9" gate="G$1" pin="TP"/>
 </segment>
 </net>
@@ -4243,14 +4285,14 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="134.62" y1="-15.24" x2="134.62" y2="-12.7" width="0.1524" layer="91"/>
-<label x="134.62" y="-12.7" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="134.62" y="-12.7" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP11" gate="G$1" pin="TP"/>
 </segment>
 </net>
 <net name="IO/BOOT" class="0">
 <segment>
 <wire x1="289.56" y1="137.16" x2="287.02" y2="137.16" width="0.1524" layer="91"/>
-<label x="287.02" y="137.16" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="287.02" y="137.16" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="U2" gate="G$1" pin="IO9"/>
 </segment>
 <segment>
@@ -4268,7 +4310,7 @@ Stemma QT</text>
 <wire x1="261.62" y1="76.2" x2="261.62" y2="71.12" width="0.1524" layer="91"/>
 <junction x="261.62" y="76.2"/>
 <wire x1="261.62" y1="76.2" x2="269.24" y2="76.2" width="0.1524" layer="91"/>
-<label x="269.24" y="76.2" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="269.24" y="76.2" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="EPD_CS" class="0">
@@ -4284,13 +4326,13 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="165.1" y1="2.54" x2="165.1" y2="5.08" width="0.1524" layer="91"/>
-<label x="165.1" y="5.08" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="165.1" y="5.08" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP10" gate="G$1" pin="TP"/>
 </segment>
 <segment>
 <wire x1="254" y1="-2.54" x2="254" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="254" y1="2.54" x2="256.54" y2="2.54" width="0.1524" layer="91"/>
-<label x="256.54" y="2.54" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="256.54" y="2.54" size="1.27" layer="95" rot="R90" xref="yes"/>
 <wire x1="254" y1="2.54" x2="254" y2="15.24" width="0.1524" layer="91"/>
 <junction x="254" y="2.54"/>
 <pinref part="D6" gate="G$1" pin="2"/>
@@ -4306,7 +4348,7 @@ Stemma QT</text>
 <segment>
 <wire x1="243.84" y1="-2.54" x2="243.84" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="243.84" y1="2.54" x2="246.38" y2="2.54" width="0.1524" layer="91"/>
-<label x="246.38" y="2.54" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="246.38" y="2.54" size="1.27" layer="95" rot="R90" xref="yes"/>
 <wire x1="243.84" y1="2.54" x2="243.84" y2="15.24" width="0.1524" layer="91"/>
 <junction x="243.84" y="2.54"/>
 <pinref part="D9" gate="G$1" pin="2"/>
@@ -4333,7 +4375,7 @@ Stemma QT</text>
 <wire x1="284.48" y1="73.66" x2="289.56" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="284.48" y1="73.66" x2="284.48" y2="78.74" width="0.1524" layer="91"/>
 <junction x="284.48" y="73.66"/>
-<label x="289.56" y="73.66" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="289.56" y="73.66" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="CHANGE_BUTTON" gate="G$1" pin="3"/>
 <pinref part="CHANGE_BUTTON" gate="G$1" pin="4"/>
 <pinref part="C10" gate="G$1" pin="1"/>
@@ -4348,7 +4390,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="134.62" y1="20.32" x2="134.62" y2="22.86" width="0.1524" layer="91"/>
-<label x="134.62" y="22.86" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="134.62" y="22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP1" gate="G$1" pin="TP"/>
 </segment>
 </net>
@@ -4360,7 +4402,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="139.7" y1="20.32" x2="139.7" y2="22.86" width="0.1524" layer="91"/>
-<label x="139.7" y="22.86" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="139.7" y="22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP2" gate="G$1" pin="TP"/>
 </segment>
 </net>
@@ -4372,7 +4414,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="2.54" y1="12.7" x2="0" y2="12.7" width="0.1524" layer="91"/>
-<label x="0" y="12.7" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="0" y="12.7" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="U3" gate="A" pin="!RST"/>
 </segment>
 </net>
@@ -4421,14 +4463,14 @@ Stemma QT</text>
 <wire x1="96.52" y1="73.66" x2="91.44" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="73.66" x2="86.36" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="73.66" x2="91.44" y2="78.74" width="0.1524" layer="91"/>
-<label x="86.36" y="73.66" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="86.36" y="73.66" size="1.27" layer="95" rot="R180" xref="yes"/>
 <junction x="91.44" y="73.66"/>
 <pinref part="Q2" gate="G$1" pin="G"/>
 <pinref part="R_CL1" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <wire x1="149.86" y1="-15.24" x2="149.86" y2="-12.7" width="0.1524" layer="91"/>
-<label x="149.86" y="-12.7" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="149.86" y="-12.7" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP13" gate="G$1" pin="TP"/>
 </segment>
 </net>
@@ -4445,7 +4487,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="187.96" y1="81.28" x2="187.96" y2="76.2" width="0.1524" layer="91"/>
-<label x="187.96" y="76.2" size="1.778" layer="95" rot="R270" xref="yes"/>
+<label x="187.96" y="76.2" size="1.27" layer="95" rot="R270" xref="yes"/>
 <pinref part="R1-PINH" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -4460,7 +4502,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="312.42" y1="71.12" x2="309.88" y2="71.12" width="0.1524" layer="91"/>
-<label x="309.88" y="71.12" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="309.88" y="71.12" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="U4" gate="G$1" pin="SDA"/>
 </segment>
 </net>
@@ -4477,7 +4519,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="172.72" y1="81.28" x2="172.72" y2="76.2" width="0.1524" layer="91"/>
-<label x="172.72" y="76.2" size="1.778" layer="95" rot="R270" xref="yes"/>
+<label x="172.72" y="76.2" size="1.27" layer="95" rot="R270" xref="yes"/>
 <pinref part="R2-PINH" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -4492,7 +4534,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="312.42" y1="76.2" x2="309.88" y2="76.2" width="0.1524" layer="91"/>
-<label x="309.88" y="76.2" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="309.88" y="76.2" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="U4" gate="G$1" pin="SCL"/>
 </segment>
 </net>
@@ -4509,7 +4551,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="142.24" y1="-15.24" x2="142.24" y2="-12.7" width="0.1524" layer="91"/>
-<label x="142.24" y="-12.7" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="142.24" y="-12.7" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP12" gate="G$1" pin="TP"/>
 </segment>
 </net>
@@ -4519,7 +4561,7 @@ Stemma QT</text>
 <wire x1="269.24" y1="139.7" x2="269.24" y2="137.16" width="0.1524" layer="91"/>
 <junction x="269.24" y="139.7"/>
 <wire x1="269.24" y1="139.7" x2="264.16" y2="139.7" width="0.1524" layer="91"/>
-<label x="269.24" y="137.16" size="1.778" layer="95" rot="R270" xref="yes"/>
+<label x="269.24" y="137.16" size="1.27" layer="95" rot="R270" xref="yes"/>
 <pinref part="R1" gate="G$1" pin="1"/>
 <pinref part="U2" gate="G$1" pin="IO8"/>
 </segment>
@@ -4527,18 +4569,18 @@ Stemma QT</text>
 <net name="RESE'" class="0">
 <segment>
 <wire x1="12.7" y1="149.86" x2="22.86" y2="149.86" width="0.1524" layer="91"/>
-<label x="22.86" y="149.86" size="1.778" layer="95" xref="yes"/>
+<label x="22.86" y="149.86" size="1.27" layer="95" xref="yes"/>
 <pinref part="SJ1" gate="1" pin="2"/>
 </segment>
 <segment>
 <wire x1="12.7" y1="134.62" x2="22.86" y2="134.62" width="0.1524" layer="91"/>
-<label x="22.86" y="134.62" size="1.778" layer="95" xref="yes"/>
+<label x="22.86" y="134.62" size="1.27" layer="95" xref="yes"/>
 <pinref part="R2" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <wire x1="129.54" y1="124.46" x2="129.54" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="121.92" x2="134.62" y2="121.92" width="0.1524" layer="91"/>
-<label x="134.62" y="121.92" size="1.778" layer="95" xref="yes"/>
+<label x="134.62" y="121.92" size="1.27" layer="95" xref="yes"/>
 <pinref part="R3" gate="G$1" pin="1"/>
 </segment>
 </net>
@@ -4548,13 +4590,13 @@ Stemma QT</text>
 <wire x1="48.26" y1="139.7" x2="48.26" y2="142.24" width="0.1524" layer="91"/>
 <junction x="48.26" y="139.7"/>
 <wire x1="48.26" y1="139.7" x2="50.8" y2="139.7" width="0.1524" layer="91"/>
-<label x="48.26" y="142.24" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="48.26" y="142.24" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="C7" gate="G$1" pin="1"/>
 <pinref part="L1" gate="A" pin="2"/>
 </segment>
 <segment>
 <wire x1="35.56" y1="83.82" x2="33.02" y2="83.82" width="0.1524" layer="91"/>
-<label x="30.48" y="83.82" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="30.48" y="83.82" size="1.27" layer="95" rot="R180" xref="yes"/>
 <wire x1="33.02" y1="83.82" x2="30.48" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="81.28" x2="33.02" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="81.28" x2="33.02" y2="83.82" width="0.1524" layer="91"/>
@@ -4567,12 +4609,12 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="104.14" y1="71.12" x2="104.14" y2="66.04" width="0.1524" layer="91"/>
-<label x="104.14" y="66.04" size="1.778" layer="95" rot="R270" xref="yes"/>
+<label x="104.14" y="66.04" size="1.27" layer="95" rot="R270" xref="yes"/>
 <pinref part="Q2" gate="G$1" pin="S"/>
 </segment>
 <segment>
 <wire x1="170.18" y1="20.32" x2="170.18" y2="22.86" width="0.1524" layer="91"/>
-<label x="170.18" y="22.86" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="170.18" y="22.86" size="1.27" layer="95" rot="R90" xref="yes"/>
 <pinref part="TP17" gate="G$1" pin="TP"/>
 </segment>
 </net>
@@ -4582,7 +4624,7 @@ Stemma QT</text>
 <wire x1="71.12" y1="139.7" x2="71.12" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="71.12" y1="139.7" x2="71.12" y2="129.54" width="0.1524" layer="91"/>
 <junction x="71.12" y="139.7"/>
-<label x="71.12" y="147.32" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="71.12" y="147.32" size="1.27" layer="95" rot="R90" xref="yes"/>
 <wire x1="71.12" y1="129.54" x2="76.2" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="76.2" y1="129.54" x2="78.74" y2="129.54" width="0.1524" layer="91"/>
 <junction x="76.2" y="129.54"/>
@@ -4593,7 +4635,7 @@ Stemma QT</text>
 </segment>
 <segment>
 <wire x1="129.54" y1="154.94" x2="129.54" y2="157.48" width="0.1524" layer="91"/>
-<label x="129.54" y="157.48" size="1.778" layer="95" xref="yes"/>
+<label x="129.54" y="157.48" size="1.27" layer="95" xref="yes"/>
 <pinref part="Q3" gate="G$1" pin="D"/>
 </segment>
 </net>
@@ -4612,7 +4654,7 @@ Stemma QT</text>
 <net name="PREVGH" class="0">
 <segment>
 <wire x1="93.98" y1="129.54" x2="96.52" y2="129.54" width="0.1524" layer="91"/>
-<label x="96.52" y="129.54" size="1.778" layer="95" xref="yes"/>
+<label x="96.52" y="129.54" size="1.27" layer="95" xref="yes"/>
 <pinref part="D5" gate="G$1" pin="K"/>
 </segment>
 <segment>
@@ -4630,7 +4672,7 @@ Stemma QT</text>
 <wire x1="116.84" y1="142.24" x2="116.84" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="142.24" x2="116.84" y2="144.78" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="144.78" x2="121.92" y2="144.78" width="0.1524" layer="91"/>
-<label x="116.84" y="152.4" size="1.778" layer="95" rot="R90" xref="yes"/>
+<label x="116.84" y="152.4" size="1.27" layer="95" rot="R90" xref="yes"/>
 <junction x="116.84" y="142.24"/>
 <pinref part="R4" gate="G$1" pin="2"/>
 <pinref part="Q3" gate="G$1" pin="G"/>
@@ -4644,7 +4686,7 @@ Stemma QT</text>
 <net name="RESE" class="0">
 <segment>
 <wire x1="129.54" y1="139.7" x2="129.54" y2="137.16" width="0.1524" layer="91"/>
-<label x="134.62" y="137.16" size="1.778" layer="95" xref="yes"/>
+<label x="134.62" y="137.16" size="1.27" layer="95" xref="yes"/>
 <wire x1="129.54" y1="137.16" x2="129.54" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="134.62" y1="137.16" x2="129.54" y2="137.16" width="0.1524" layer="91"/>
 <junction x="129.54" y="137.16"/>
@@ -4753,7 +4795,7 @@ Stemma QT</text>
 <net name="VRTC" class="1">
 <segment>
 <wire x1="33.02" y1="10.16" x2="35.56" y2="10.16" width="0.1524" layer="91"/>
-<label x="35.56" y="10.16" size="1.778" layer="95" xref="yes"/>
+<label x="35.56" y="10.16" size="1.27" layer="95" xref="yes"/>
 <pinref part="U3" gate="A" pin="VBAT"/>
 </segment>
 <segment>
@@ -4765,7 +4807,7 @@ Stemma QT</text>
 <wire x1="76.2" y1="5.08" x2="73.66" y2="5.08" width="0.1524" layer="91"/>
 <junction x="76.2" y="5.08"/>
 <wire x1="76.2" y1="5.08" x2="76.2" y2="2.54" width="0.1524" layer="91"/>
-<label x="73.66" y="5.08" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="73.66" y="5.08" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="C8" gate="G$1" pin="1"/>
 <pinref part="C10_SUPERCAP" gate="G$1" pin="2"/>
 <pinref part="R_CAPACITOR" gate="G$1" pin="2"/>
@@ -4798,7 +4840,7 @@ Stemma QT</text>
 <net name="PREVGL" class="0">
 <segment>
 <wire x1="93.98" y1="142.24" x2="96.52" y2="142.24" width="0.1524" layer="91"/>
-<label x="96.52" y="142.24" size="1.778" layer="95" xref="yes"/>
+<label x="96.52" y="142.24" size="1.27" layer="95" xref="yes"/>
 <pinref part="D4" gate="G$1" pin="A"/>
 </segment>
 <segment>
@@ -4847,11 +4889,6 @@ with this version.
 Since Version 8.3, EAGLE supports URNs for individual library
 assets (packages, symbols, and devices). The URNs of those assets
 will not be understood (or retained) with this version.
-</note>
-<note version="8.3" severity="warning">
-Since Version 8.3, EAGLE supports the association of 3D packages
-with devices in libraries, schematics, and board files. Those 3D
-packages will not be understood (or retained) with this version.
 </note>
 </compatibility>
 </eagle>
